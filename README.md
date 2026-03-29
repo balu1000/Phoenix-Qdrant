@@ -13,4 +13,4 @@ Phoenix було розгорнуто як Deployment, Qdrant — через Hel
 
 ## UI
 
-![Qdrant UI](screenshots/qdrant.png)
+![Qdrant UI](/screenshots/qdrant.png)
